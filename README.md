@@ -5,4 +5,4 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
 
-<h2>1일차</h2>
+<h2>간단한 게시판 만들기</h2>
